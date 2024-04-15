@@ -1,5 +1,4 @@
 # blockchain-innovation-hub
-## Blockchain Innovation Hub initiative
 
 An initiative to promote networking and partnerships among several innovation actors (academia, private sector and government) aiming the development of new projects and decentralized applications (dApps) in the blockchain space. Main Blockchain Innovation Hub initiatives involves:
 
