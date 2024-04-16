@@ -36,7 +36,7 @@ Main Blockchain Innovation Hub initiatives involves:
 
 [Blockchain.Rio](https://blockchainrio.com.br/)
 
-### Rio de Janeiro investment promotion agency
+### Rio de Janeiro city investment promotion agency
 
 [Invest.Rio](https://www.invest.rio/en)
 
