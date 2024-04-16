@@ -32,7 +32,7 @@ Main Blockchain Innovation Hub initiatives involves:
 
 [Lumeeira](https://lumeeira.io)
 
-### Largest Blockchain events organizers in Bazil
+### Largest Blockchain events organizers in Brazil
 
 [Blockchain.Rio](https://blockchainrio.com.br/)
 
