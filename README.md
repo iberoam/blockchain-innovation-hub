@@ -66,3 +66,6 @@ Main Blockchain Innovation Hub initiatives involves:
 
 [Favelaverso](https://favelaverso.my.canva.site/)
 
+### CriptoBahia
+
+[CriptoBahia](https://x.com/bahiacripto)
