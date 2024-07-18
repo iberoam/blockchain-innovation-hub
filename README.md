@@ -62,3 +62,7 @@ Main Blockchain Innovation Hub initiatives involves:
 
 [AgroForest DAO](https://agroforestdao-ptbr.web.app/)
 
+### Favelaverso
+
+[Favelaverso](https://favelaverso.my.canva.site/)
+
