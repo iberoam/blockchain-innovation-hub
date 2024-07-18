@@ -44,3 +44,21 @@ Main Blockchain Innovation Hub initiatives involves:
 
 [IberoAm](https://linktr.ee/iberoam)
 
+## More recent partners
+
+### Museu.xyz
+
+[Museu.xyz](https://museu.xyz/)
+
+### DeSci World
+
+[DeSci World](https://desci.world/)
+
+### Web3EduBrasil
+
+[Web3EduBrasil](https://www.web3edubrasil.com/)
+
+### AgroForest DAO
+
+[AgroForest DAO](https://agroforestdao-ptbr.web.app/)
+
