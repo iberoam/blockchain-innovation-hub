@@ -60,7 +60,7 @@ Main Blockchain Innovation Hub initiatives involves:
 
 ### GreenPill BR
 
-[GreenPill BR(https://x.com/greenpillbrasil)
+[GreenPillBR](https://x.com/greenpillbrasil)
 
 
 
