@@ -58,9 +58,11 @@ Main Blockchain Innovation Hub initiatives involves:
 
 [Web3EduBrasil](https://www.web3edubrasil.com/)
 
-### AgroForest DAO
+### GreenPill BR
 
-[AgroForest DAO](https://agroforestdao-ptbr.web.app/)
+[GreenPill BR(https://x.com/greenpillbrasil)
+
+
 
 ### Favelaverso
 
